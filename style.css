@@ -11,7 +11,7 @@ body{
     animation: glow 1s ease-in-out infinite alternate;
 }
 
-.form{
+form{
     color: white;
     align-items: center;
     justify-content: center;
